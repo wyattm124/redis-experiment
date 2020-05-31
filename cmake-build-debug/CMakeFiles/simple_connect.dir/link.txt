@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/simple_connect.dir/main.c.o  -o simple_connect /home/wyatt/Desktop/SONIC//hiredis/libhiredis.a -pthread 

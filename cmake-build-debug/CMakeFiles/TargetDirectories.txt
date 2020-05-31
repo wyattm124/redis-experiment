@@ -1,0 +1,3 @@
+/home/wyatt/Desktop/SONIC/simple_connect/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wyatt/Desktop/SONIC/simple_connect/cmake-build-debug/CMakeFiles/simple_connect.dir
+/home/wyatt/Desktop/SONIC/simple_connect/cmake-build-debug/CMakeFiles/edit_cache.dir

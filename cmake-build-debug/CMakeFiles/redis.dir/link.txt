@@ -1,0 +1,2 @@
+/usr/bin/ar qc libredis.a  CMakeFiles/redis.dir/home/wyatt/Desktop/SONIC/hiredis/hiredis.c.o
+/usr/bin/ranlib libredis.a
